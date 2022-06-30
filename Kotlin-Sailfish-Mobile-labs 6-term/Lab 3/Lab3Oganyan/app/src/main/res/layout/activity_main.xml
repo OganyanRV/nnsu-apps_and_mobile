@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FD0000"
+        android:onClick="click1"
+        android:text="Задание 1"
+        app:backgroundTint="#FD0000" />
+
+    <Button
+        android:id="@+id/button_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click2"
+        android:text="Задание 2"
+        app:backgroundTint="#FF5722" />
+
+    <Button
+        android:id="@+id/button_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click3"
+        android:text="Задание 3"
+        app:backgroundTint="#FFEB3B" />
+
+    <Button
+        android:id="@+id/button_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click4"
+        android:text="Задание 4"
+        app:backgroundTint="#4CAF50" />
+
+    <Button
+        android:id="@+id/button_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click5"
+        android:text="Задание 5"
+        app:backgroundTint="#03A9F4" />
+
+    <Button
+        android:id="@+id/button_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click6"
+        android:text="Задание 6"
+        app:backgroundTint="#3F51B5" />
+
+    <Button
+        android:id="@+id/button_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click7"
+        android:text="Задание 7"
+        app:backgroundTint="#673AB7" />
+
+    <Button
+        android:id="@+id/button_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click8"
+        android:text="Задание 8"
+        app:backgroundTint="@color/material_on_surface_emphasis_high_type" />
+
+    <Button
+        android:id="@+id/button_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click9"
+        android:text="Задание 9"
+        app:backgroundTint="#000000" />
+</LinearLayout>

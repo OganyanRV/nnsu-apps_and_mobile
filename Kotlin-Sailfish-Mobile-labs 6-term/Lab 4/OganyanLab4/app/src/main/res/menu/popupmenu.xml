@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="100dp"
+    android:layout_height="100dp">
+
+    <group android:id="@+id/menugroup1">
+
+        <item
+            android:id="@+id/menu1"
+            android:title="Устал" />
+
+        <item
+            android:id="@+id/menu2"
+            android:title="Разбираться" />
+
+        <item
+            android:id="@+id/menu3"
+            android:title="В android" />
+
+
+    </group>
+
+</menu>

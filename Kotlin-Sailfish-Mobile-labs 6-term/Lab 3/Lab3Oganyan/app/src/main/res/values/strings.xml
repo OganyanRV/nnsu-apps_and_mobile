@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab3Oganyan</string>
+    <string name="ex1text">Введите число</string>
+    <string name="ex2text">Нажми меня!</string>
+    <string name="ex3text1">Кнопка</string>
+    <string name="button">Button</string>
+    <string name="cnt">Счетик:</string>
+    <string name="cntint">0</string>
+    <string name="textex4">Считает количетсво нажатий</string>
+    <string name="textex5">Вывести дату</string>
+    <string name="texte7">Любимый язык программирования</string>
+    <string name="switchtxt">Переключатель</string>
+    <string name="txtex8">Преподаватель\n не доволен</string>
+    <string name="txtex81">Преподаватель\n доволен</string>
+    <string name="ex9txt">Текущее значение: 0</string>
+</resources>

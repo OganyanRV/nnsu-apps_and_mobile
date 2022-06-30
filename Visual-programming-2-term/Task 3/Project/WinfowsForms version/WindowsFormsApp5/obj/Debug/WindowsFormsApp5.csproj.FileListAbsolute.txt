@@ -1,0 +1,54 @@
+C:\Users\OgRobertino2\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\OgRobertino2\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\OgRobertino2\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\OgRobertino2\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\OgRobertino2\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\bna\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\OgRobertino2\Desktop\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+H:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+H:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+H:\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+H:\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\OgRob\Desktop\СТАРАЯ ВИНДА\флешка\WindowsFormsApp54\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
